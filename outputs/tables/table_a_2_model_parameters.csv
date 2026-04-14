@@ -1,0 +1,10 @@
+﻿参数项,参数值
+主成分个数,3
+训练集时间范围,2001-2019
+检验集时间范围,2020-2021
+ANN 参数：hidden_layer_sizes,"(3,)"
+ANN 参数：activation,tanh
+ANN 参数：solver,lbfgs
+ANN 参数：alpha,0.01
+ANN 参数：max_iter,2000
+ANN 参数：random_state,42
